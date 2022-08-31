@@ -15,10 +15,10 @@ The steps below will take you all the way through Cypress. It is assumed you hav
 
 ```bash
 ## clone this repo to a local directory
-git clone https://github.com/<your-username>/cypress-example-phonecat.git
+git clone git@github.com:sonigeorge/domo_ui.git
 
 ## cd into the cloned repo
-cd cypress-example-phonecat
+cd domo_ui
 
 ## install the node_modules
 npm install
