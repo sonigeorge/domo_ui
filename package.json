@@ -1,0 +1,15 @@
+{
+  "name": "to_do",
+  "version": "1.0.0",
+  "description": "Interview Project",
+  "main": "cypress.config.js",
+  "dependencies": {
+    "cypress": "^10.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Soney George",
+  "license": "ISC"
+}
